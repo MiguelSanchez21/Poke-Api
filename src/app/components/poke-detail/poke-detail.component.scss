@@ -1,0 +1,30 @@
+.card
+{
+    width: 300px;
+    margin: auto;
+    margin-top: 20px;
+    background: red;
+}
+
+.header-image
+{
+    background-size: cover;
+}
+
+.mat-card-header
+{
+    background-color: white;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+
+.mat-card-title
+{
+    text-transform: uppercase;
+    color: black;
+}
+
+.mat-card-subtitle
+{
+    color: black;
+}
